@@ -39,3 +39,4 @@ Replace @:
 
 
 ### Result:
+Thus, sentimental analysis for the given data using Rapidminer is done successfully.
